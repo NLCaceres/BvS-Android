@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pick Your Superhero</string>
+    <string name="label_question">Who will win?</string>
+    <string name="label_options">or</string>
+    <string name="label_superman">Superman</string>
+    <string name="label_batman">Batman</string>
+    <string name="toast_superman">Victory for Superman</string>
+    <string name="toast_batman">Victory for Batman</string>
+</resources>
